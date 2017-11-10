@@ -20,3 +20,5 @@ Réflechir à quel rythme choisir, et voir s'il est nécessaire de regarder tous
 - Savoir relier plannings des trains à leur horaires réels
 
 ## Faire un prototype de prédiction simple
+
+## Refactoring du code
